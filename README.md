@@ -5,7 +5,7 @@ html file: https://github.com/Yuvresh-Gavale/Task-18/blob/main/index.html
 <br>
 css file: https://github.com/Yuvresh-Gavale/Task-18/blob/main/style.css
 <br>
-js file: 
+js file: https://github.com/Yuvresh-Gavale/Task-18/blob/main/script.js
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/Task-18/edit/main/README.md
 <br>
