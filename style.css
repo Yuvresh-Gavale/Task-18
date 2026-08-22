@@ -1,0 +1,84 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* HEADER ARRANGEMENT */
+.set-1 {
+  background-color: rgba(128, 128, 128, 0.729);
+  height: 3rem;
+  width: 100vw;
+}
+.set-1 header {
+  margin-left: 50vw;
+  padding-top: 1rem;
+}
+
+.set-2 {
+  display: flex;
+  margin-top: 5rem;
+  justify-content: center;
+  gap: 2rem;
+  
+}
+
+/* BOXES-ARRANGEMENT */
+.box-1 {
+  display: flex;
+  cursor: pointer;
+  height: 6rem;
+  width: 6rem;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+.box-2 {
+  display: flex;
+   cursor: pointer;
+  height: 6rem;
+  width: 6rem;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+.box-3 {
+  display: flex;
+  cursor: pointer;
+  height: 6rem;
+  width: 6rem;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+.box-4 {
+  display: flex;
+  cursor: pointer;
+  height: 6rem;
+  width: 6rem;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+/* INPUT ARRANGEMENT */
+.input-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 7rem;
+}
+
+/* SUBMISSION */
+.enter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 1rem;
+  height: 2rem;
+  width: 4rem;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
