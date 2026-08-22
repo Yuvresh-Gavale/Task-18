@@ -3,7 +3,7 @@
 
 html file: https://github.com/Yuvresh-Gavale/Task-18/blob/main/index.html
 <br>
-css file:
+css file: https://github.com/Yuvresh-Gavale/Task-18/blob/main/style.css
 <br>
 js file: 
 # Clone the repo
