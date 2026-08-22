@@ -12,7 +12,7 @@ git clone: https://github.com/Yuvresh-Gavale/Task-18/edit/main/README.md
 cd <project-folder>
 
 # Deployed Link
-Link: 
+Link: https://tutedudetask18.netlify.app/
 
 # Run the project
 <br>
